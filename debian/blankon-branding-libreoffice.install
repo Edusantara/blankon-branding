@@ -3,6 +3,6 @@ libreoffice/backing_right-blankon.png /usr/lib/libreoffice/program/shell/
 libreoffice/backing_rtl_left-blankon.png /usr/lib/libreoffice/program/shell/
 libreoffice/backing_rtl_right-blankon.png /usr/lib/libreoffice/program/shell/
 libreoffice/backing_space-blankon.png /usr/lib/libreoffice/program/shell/
-libreoffice/intro.png /usr/lib/libreoffice/program/
-libreoffice/flat_logo.svg /usr/lib/libreoffice/program/
-libreoffice/sofficerc /etc/libreoffice/
+libreoffice/intro-blankon.png /usr/lib/libreoffice/program/
+libreoffice/flat_logo-blankon.svg /usr/lib/libreoffice/program/
+libreoffice/sofficerc-blankon /etc/libreoffice/
